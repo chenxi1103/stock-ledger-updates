@@ -1,0 +1,19 @@
+; Daily stock price snapshot 2026-11-03
+; All tickers unavailable: Yahoo Finance public quote endpoint (query1/query2.finance.yahoo.com)
+; returned HTTP 429 "Too Many Requests" on every attempt across ~30 minutes of retries
+; (the only price-data host allowlisted in this environment's network policy).
+; AAPL: no price data available (rate limited)
+; AMZN: no price data available (rate limited)
+; CRCL: no price data available (rate limited)
+; DIS: no price data available (rate limited)
+; GDX: no price data available (rate limited)
+; IBIT: no price data available (rate limited)
+; META: no price data available (rate limited)
+; MSFT: no price data available (rate limited)
+; QDTE: no price data available (rate limited)
+; QQQ: no price data available (rate limited)
+; QQQM: no price data available (rate limited)
+; SCHG: no price data available (rate limited)
+; SMH: no price data available (rate limited)
+; SPCX: no public price data available (private/pre-IPO)
+; SPY: no price data available (rate limited)
