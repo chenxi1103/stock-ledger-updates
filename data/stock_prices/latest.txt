@@ -1,20 +1,15 @@
-; Daily stock price snapshot 2026-11-05
-; All tickers unavailable: Yahoo Finance public quote endpoint (query1/query2.finance.yahoo.com)
-; returned "Edge: Too Many Requests" on every attempt across ~5 minutes of retries
-; (the only price-data host allowlisted in this environment's network policy;
-; stooq.com, api.nasdaq.com and quote.cnbc.com are blocked by the proxy's network policy)
-; AAPL: no price data available (rate limited)
-; AMZN: no price data available (rate limited)
-; CRCL: no price data available (rate limited)
-; DIS: no price data available (rate limited)
-; GDX: no price data available (rate limited)
-; IBIT: no price data available (rate limited)
-; META: no price data available (rate limited)
-; MSFT: no price data available (rate limited)
-; QDTE: no price data available (rate limited)
-; QQQ: no price data available (rate limited)
-; QQQM: no price data available (rate limited)
-; SCHG: no price data available (rate limited)
-; SMH: no price data available (rate limited)
-; SPCX: no price data available (rate limited)
-; SPY: no price data available (rate limited)
+2026-11-06 price AAPL 344.17 USD
+2026-11-06 price AMZN 260.21 USD
+2026-11-06 price CRCL 69.48 USD
+2026-11-06 price DIS 117.22 USD
+2026-11-06 price GDX 85.75 USD
+2026-11-06 price IBIT 43.03 USD
+2026-11-06 price META 605.08 USD
+2026-11-06 price MSFT 535.93 USD
+2026-11-06 price QDTE 25.44 USD
+2026-11-06 price QQQ 647.05 USD
+2026-11-06 price QQQM 266.85 USD
+2026-11-06 price SCHG 32.81 USD
+2026-11-06 price SMH 447.73 USD
+2026-11-06 price SPCX 123.62 USD
+2026-11-06 price SPY 733.00 USD
