@@ -1,0 +1,22 @@
+; Daily stock price snapshot for 2026-11-16
+; All lookups failed: Yahoo Finance (query1/query2.finance.yahoo.com) returned
+; HTTP 429 "Edge: Too Many Requests" for every ticker, continuously across two
+; retry rounds (roughly 10 minutes total, with 20s and 45s backoffs) from this
+; environment's egress IP. No alternate free source was reachable: stooq.com
+; and stooq.pl are not permitted by this session's network policy. No price
+; data could be obtained for any ticker today.
+; AAPL: no price data available (source unavailable)
+; AMZN: no price data available (source unavailable)
+; CRCL: no price data available (source unavailable)
+; DIS: no price data available (source unavailable)
+; GDX: no price data available (source unavailable)
+; IBIT: no price data available (source unavailable)
+; META: no price data available (source unavailable)
+; MSFT: no price data available (source unavailable)
+; QDTE: no price data available (source unavailable)
+; QQQ: no price data available (source unavailable)
+; QQQM: no price data available (source unavailable)
+; SCHG: no price data available (source unavailable)
+; SMH: no price data available (source unavailable)
+; SPCX: no price data available (source unavailable)
+; SPY: no price data available (source unavailable)
