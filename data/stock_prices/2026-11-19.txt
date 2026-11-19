@@ -1,0 +1,20 @@
+; Daily stock price snapshot for 2026-11-19
+; ALL data sources unavailable today - see notes below
+; Attempted: query1.finance.yahoo.com, query2.finance.yahoo.com (HTTP 429 "Edge: Too Many Requests", persistent for 45+ min)
+; Attempted: stooq.com /q/l/ CSV endpoint (HTTP 404 - endpoint appears deprecated/removed; other stooq pages gated by a JS proof-of-work anti-bot challenge)
+; No other hosts are allowlisted for this environment's network policy.
+; AAPL: no public price data available (data source outage)
+; AMZN: no public price data available (data source outage)
+; CRCL: no public price data available (data source outage)
+; DIS: no public price data available (data source outage)
+; GDX: no public price data available (data source outage)
+; IBIT: no public price data available (data source outage)
+; META: no public price data available (data source outage)
+; MSFT: no public price data available (data source outage)
+; QDTE: no public price data available (data source outage)
+; QQQ: no public price data available (data source outage)
+; QQQM: no public price data available (data source outage)
+; SCHG: no public price data available (data source outage)
+; SMH: no public price data available (data source outage)
+; SPCX: no public price data available (private/pre-IPO)
+; SPY: no public price data available (data source outage)

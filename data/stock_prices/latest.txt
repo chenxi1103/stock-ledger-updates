@@ -1,15 +1,20 @@
-2026-11-18 price AAPL 351.91 USD
-2026-11-18 price AMZN 257.89 USD
-2026-11-18 price CRCL 54.63 USD
-2026-11-18 price DIS 116.94 USD
-2026-11-18 price GDX 79.57 USD
-2026-11-18 price IBIT 36.14 USD
-2026-11-18 price META 618.87 USD
-2026-11-18 price MSFT 506.24 USD
-2026-11-18 price QDTE 25.71 USD
-2026-11-18 price QQQ 656.95 USD
-2026-11-18 price QQQM 270.42 USD
-2026-11-18 price SCHG 32.86 USD
-2026-11-18 price SMH 460.10 USD
-2026-11-18 price SPCX 141.70 USD
-2026-11-18 price SPY 732.44 USD
+; Daily stock price snapshot for 2026-11-19
+; ALL data sources unavailable today - see notes below
+; Attempted: query1.finance.yahoo.com, query2.finance.yahoo.com (HTTP 429 "Edge: Too Many Requests", persistent for 45+ min)
+; Attempted: stooq.com /q/l/ CSV endpoint (HTTP 404 - endpoint appears deprecated/removed; other stooq pages gated by a JS proof-of-work anti-bot challenge)
+; No other hosts are allowlisted for this environment's network policy.
+; AAPL: no public price data available (data source outage)
+; AMZN: no public price data available (data source outage)
+; CRCL: no public price data available (data source outage)
+; DIS: no public price data available (data source outage)
+; GDX: no public price data available (data source outage)
+; IBIT: no public price data available (data source outage)
+; META: no public price data available (data source outage)
+; MSFT: no public price data available (data source outage)
+; QDTE: no public price data available (data source outage)
+; QQQ: no public price data available (data source outage)
+; QQQM: no public price data available (data source outage)
+; SCHG: no public price data available (data source outage)
+; SMH: no public price data available (data source outage)
+; SPCX: no public price data available (private/pre-IPO)
+; SPY: no public price data available (data source outage)
